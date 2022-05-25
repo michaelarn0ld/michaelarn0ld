@@ -9,7 +9,7 @@ some personal coding projects.
 
 If you want to reach me, please check out my website or email me directly!
 
-Web: www.michaelarnold.io
+Web: www.michaelarnold.io \
 Email: me@michaelarnold.io
 
 ## Professional Interests
