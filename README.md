@@ -26,6 +26,12 @@ Email: me@michaelarnold.io
 * Skiing in the winter
 * Grabbing drinks with friends at the local pub
 
+## Tech
+Currently, most of the work I'm involved in revolves around the following:
+* Java
+* Shell Scripting
+* Python
+* TypeScript
 
 ## Misc
 * TOOL is my favorite band!
