@@ -25,7 +25,7 @@ Email: me@michaelarnold.io
   with new flavors
 * Getting into the mountains for a good hike in the summer
 * Skiing in the winter
-* Grabbing drinks with friends at the local pub
+* Exploring the city for the best cocktails and best eats
 
 ## Tech
 Currently, most of the work I'm involved in revolves around the following:
