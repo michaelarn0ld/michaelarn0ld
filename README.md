@@ -14,9 +14,10 @@ Email: me@michaelarnold.io
 
 ## Professional Interests
 * Cloud Computing
+* Infrastructure Development
 * Microservices
 * OOP
-* Scripting (who doesn't love a good script?)
+* Scripting
 
 ## Hobbies
 * Working out, weight lifting and calisthenics
