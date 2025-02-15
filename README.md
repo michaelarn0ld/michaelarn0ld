@@ -1,7 +1,7 @@
 ## Hello World
-My name is Michael Arnold; currently I work in Palo Alto, California
-as a Software Development Engineer at Amazon Web Services. I am a part of the
-Aurora MySQL team, mostly focusing on platform and infrastructure development.
+I'm a technologist with deep knowledge in platform and infrastructure development. Since May 24' I've been at Amazon in San Diego, where I build supply-side enforcement software for the Advertising Trust team. Before this, I spent a few years with Amazon Web Services in Palo Alto, where I designed and developed testing and deployment infrastructure for RDS Aurora MySQL.
+
+I have experience developing resilient deployment frameworks for global services, designing fault-tolerant and scalable distributed systems, and collaborating with product managers to deliver software features used by millions of users.
 
 I am a lifelong learner and am in love with the pursuit of personal growth. In my
 free time, you're likely to find me engaged in one of my hobbies, or working on
