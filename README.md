@@ -22,15 +22,15 @@ Email: me@michaelarnold.io
 
 ## Hobbies
 Some things you can find me spending my time on when I am AFK:
-* Weight lifting
 * Calisthenics
-* Bicycling 
+* Surfing 
 * Skiing
 * Cooking
 
 ## Tech
 Currently, most of the work I'm involved in revolves around the following:
 * Java
+* Typescript
 * Shell
 * Python
 * Ruby
