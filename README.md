@@ -1,12 +1,11 @@
 ## Hello World
-I'm a technologist with deep knowledge in platform and infrastructure development. Since May 24' I've been at Amazon in San Diego, where I build supply-side enforcement software for the Advertising Trust team. Before this, I spent a few years with Amazon Web Services in Palo Alto, where I designed and developed testing and deployment infrastructure for RDS Aurora MySQL.
+I'm a software engineer with expertise in distributed systems and platform engineering. I currently work at Amazon Advertising in San Diego, where I build event-driven systems that model and enforce advertising policy, in real time, across large-scale global ad serving infrastructure.
 
-I have experience developing resilient deployment frameworks for global services, designing fault-tolerant and scalable distributed systems, and collaborating with product managers to deliver software features used by millions of users.
+Previously I worked at AWS on the Aurora MySQL team, where I developed the software platform and deployment infrastructure used to validate database releases across AWS regions worldwide.
 
-I am a lifelong learner and am in love with the pursuit of personal growth. In my
-free time, you're likely to find me engaged in one of my hobbies, or working on
-some personal coding projects. Code reflects life, so I often try to codify various
-components of my own life.
+My work generally sits at the intersection of scalable backend architecture, event-driven systems, and developer infrastructure. I enjoy building reliable systems that automate complex operational workflows and enable large engineering organizations to move faster and deliver more.
+
+Outside of work I'm usually surfing, traveling, or experimenting with hobbyist projects that automate pieces of my life. I love to dive deep and am motivated by curiosity and a desire to keep learning. 
 
 If you want to reach me, please check out my website or email me directly
 
@@ -14,31 +13,13 @@ Web: www.michaelarnold.io \
 Email: me@michaelarnold.io
 
 ## Professional Interests
-* Cloud Computing
-* Deployment Infrastructure 
-* Microservices
-* OOP
-* Scripting
+* Agentic development
+* Systems engineering
+* Cloud-native infrastructure
+* Distributed computing
+* Software architecture
 
-## Hobbies
-Some things you can find me spending my time on when I am AFK:
-* Calisthenics
-* Surfing 
-* Skiing
-* Cooking
 
-## Tech
-Currently, most of the work I'm involved in revolves around the following:
-* Java
-* Typescript
-* Shell
-* Python
-* Ruby
-* Perl
-
-## Misc Facts
-* TOOL is my favorite band
-* I almost exclusively develop software using the Vim editor and a barebones terminal
-* I love trying new foods
+## Academic
 * In college, I developed a machine that converts plastic into fuel and published a paper about it. If you are
   interested, you can read about it [here](https://doi.org/10.1063/5.0066218)
